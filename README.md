@@ -1,4 +1,4 @@
-![image](https://imgur.com/gallery/1ezV4lD)
+![Screenshot](banneradm.png)
 
 # 🚀 CRM Sistema
 
@@ -6,7 +6,7 @@ Este sistema tem como objetivo solucionar problemas empresariais, como organizar
 
 # 🧠 Contexto
 
-![Protótipo](https://imgur.com/gallery/40emhxY)
+![Screenshot](crm.png)
 
 Funcionalidades:
 - [ ] Calendario
