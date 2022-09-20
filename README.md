@@ -1,6 +1,6 @@
 ![Screenshot](banneradm.png)
 
-# 🚀 CRM Sistema
+# 🚀 CRM
 
 Este sistema tem como objetivo solucionar problemas empresariais, como organizar clientes, serviços toda area financeira.
 
